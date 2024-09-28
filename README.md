@@ -1,7 +1,7 @@
 # XDice
 
-<img src="https://raw.githubusercontent.com/destinybright/Xdice/refs/heads/main/diceapp/Assets.xcassets/firstpage.imageset/firstpage.png" width="100">
-<img src="https://raw.githubusercontent.com/destinybright/Xdice/refs/heads/main/diceapp/Assets.xcassets/secondpage.imageset/secondpage.png" width="100">
+<img src="https://raw.githubusercontent.com/destinybright/Xdice/refs/heads/main/diceapp/Assets.xcassets/firstpage.imageset/firstpage.png" width="300">
+<img src="https://raw.githubusercontent.com/destinybright/Xdice/refs/heads/main/diceapp/Assets.xcassets/secondpage.imageset/secondpage.png" width="300">
 
 
 An iOS application to roll dice for tabletop games such as Dungeons and Dragons using [Swift]. 
