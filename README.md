@@ -2,7 +2,7 @@
 
 ![First Page](diceapp/Assets.xcassets/firstpage.imageset/firstpage.png)
 ![First Page](diceapp/Assets.xcassets/secondpage.imageset/secondpage.png)
-<img src="https://github.com/destinybright/Xdice/diceapp/Assets.xcassets/firstpage.imageset/firstpage.png" width="48">
+<img src="https://raw.githubusercontent.com/destinybright/Xdice/refs/heads/main/diceapp/Assets.xcassets/firstpage.imageset/firstpage.png" width="48">
 
 
 An iOS application to roll dice for tabletop games such as Dungeons and Dragons using [Swift]. 
