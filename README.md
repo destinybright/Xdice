@@ -14,6 +14,5 @@ There is an optional user input section for users to add modifiers depending on 
 When a user rolls a 1 or a 20 (or the highest number of the die), fun sound effects play.
 A sound effect also plays when the dice is rolled.
 <br>
-All dice were hand drawn by me.
 
 [Swift]: https://www.swift.org/
